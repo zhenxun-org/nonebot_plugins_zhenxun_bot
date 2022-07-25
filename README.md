@@ -18,6 +18,7 @@
 
 |                             名称                             |                         作者                         |                             备注                             |
 | :----------------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------------------: |
+| [成语接龙](https://github.com/CRAZYShimakaze/zhenxun_extensive_plugin/tree/main/idiom_salon) |        [@CRAZYShimakaze](https://github.com/CRAZYShimakaze)        |                接尾字同音字开头的成语，1v1对抗                |
 | [私人商店](https://github.com/shinianj/zhenxun_plugin_personalshop) |        [@shinianj](https://github.com/shinianj)        |                私人商店，可自己开店                |
 | [股海风云](https://github.com/RShock/zhenxun_plugin_stock_legend) |         [RShock](https://github.com/RShock)          |     适配真寻的炒股小游戏，使用真寻经济系统和真实股市数据     |
 | [每日发癫魔楞语录](https://github.com/xipesoy/zhenxun_plugin_meiriyiju) |        [@xipesoy](https://github.com/xipesoy)        |                各种发癫魔楞语言，支持替换主角                |
