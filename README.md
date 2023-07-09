@@ -20,6 +20,7 @@
 
 |                             名称                             |                           作者                           |                             备注                             |
 | :----------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------------: |
+| [音游开字符](https://github.com/SEVEN-6174/zhenxun_plugin_guessname)| [@SEVEN-6174]（https://github.com/SEVEN-6174） | 最近很火（？）的音游群小游戏（虽然曲库不多） |
 | [群友市场](https://github.com/CCYellowStar/zhenxun_plugin_slave_market)  |            [@CCYellowStar](https://github.com/CCYellowStar)            |                        群（黑）友（奴）市场                        |
 | [Chatgpt问答](https://github.com/CRAZYShimakaze/zhenxun_extensive_plugin/tree/main/chatgpt)  |            [@CRAZYShimakaze](https://github.com/CRAZYShimakaze)            |                        chatgpt问答（支持配置上下文长度）                        |
 | [牛牛大作战](https://github.com/molanp/zhenxun_plugin_niuniu)  [点击下载](https://github.com/molanp/zhenxun_plugin_niuniu/releases/download/0.2/zhenxun_plugin_niuniu-main.zip) |           [molanp](https://github.com/molanp)            |                        男同快乐小游戏                        |
