@@ -33,11 +33,11 @@
     },
 	"zhenxun_plugin_pica": {
         "plugin_name": " 哔咔漫画",
-        "author": "CCYellowStar",
-        "version": 1.2,
+        "author": "CCYellowStar2",
+        "version": 1.3,
         "introduction": "一起看涩涩？",
-        "download_url": "https://github.com/CCYellowStar/zhenxun_plugin_pica/releases/download/v1.2/zhenxun_plugin_pica.zip",
-        "github_url": "https://github.com/CCYellowStar/zhenxun_plugin_pica"
+        "download_url": "https://github.com/CCYellowStar2/zhenxun_plugin_pica/releases/download/v1.3/zhenxun_plugin_pica.zip",
+        "github_url": "https://github.com/CCYellowStar2/zhenxun_plugin_pica"
     },
 	"zhenxun_plugin_QQweight": {
         "plugin_name": " QQ权重查询",
